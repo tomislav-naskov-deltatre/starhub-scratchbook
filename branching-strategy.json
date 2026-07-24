@@ -1,0 +1,16 @@
+{
+    "starhub-apple": {
+     "code-freeze": "0",
+     "starhub-develop": "1.0.0",
+     "starhub-main": "1.0.0"
+    },
+    "starhub-android": {
+      "code-freeze":true,
+      "starhub": "1.0.0",
+      "starhub": "1.0.0",
+      "version-code": {
+        "starhub": "100000000",
+        "starhub": "100000000",
+      }
+    },
+}
